@@ -27,6 +27,13 @@ The executable takes two command line arguments: the input image file path and t
 ./GrayScaleConverter input.jpg output_gray.jpg
 ```
 
+<table>
+  <tr>
+    <td><img src="input.jpg" alt="Image 1" width="200"/></td>
+    <td><img src="output_gray.jpg" alt="Image 2" width="200"/></td>
+  </tr>
+</table>
+
 ## License
 
 MIT
